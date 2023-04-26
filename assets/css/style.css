@@ -612,3 +612,21 @@ footer {
     height: auto;
   }
 }
+
+/* ===== Estilizando o botão Voltar ao Topo ===== */
+#back-to-top {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  background-color: #7714f0;
+  border-radius: 65px;
+  box-shadow: 2px 3px 19px -2px rgba(0, 0, 0, 0.75);
+  color: #fff;
+  cursor: pointer;
+  height: 30px;
+  width: 30px;
+  right: 5px;
+}
+
+/* ===== Fim da estilização do botão Voltar ao Topo ===== */
